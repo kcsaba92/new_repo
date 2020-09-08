@@ -8,7 +8,10 @@ How do you revert (backout) a commit?
 Under the History tab, right click the commit and then click on "revert this commit"
 
 What does HEAD refer to in the context of git?
-First, I save the file on my computer
+First, I save the file on my computer (this is the working directory)
+This pushes it to my index
+Then, I commit the changes, which creates a new HEAD
+
 
 Steps:
 Create the repo
