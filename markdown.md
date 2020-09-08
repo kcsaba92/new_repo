@@ -7,6 +7,7 @@ How do you see the contents of what changed within each file for a commit?
 
 
 How do you revert (backout) a commit?
+changes
 
 What does HEAD refer to in the context of git?   
 
